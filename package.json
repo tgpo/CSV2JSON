@@ -1,0 +1,13 @@
+{
+  "name": "CSV2JSON",
+  "version": "1.0.0",
+  "description": "Converts CSV files to JSON. Part of edX DEV283x class.",
+  "main": "csvconvert.js",
+  "scripts": {
+  },
+  "author": "tgpo",
+  "license": "ISC",
+  "dependencies": {
+    "csv-tools": "^1.1.1"
+  }
+}
